@@ -101,5 +101,5 @@ you need workaround as following.
 0.0.1   -  Initial commit
 ```
 
-Copyright (c) 2018-present, YBRAIN Inc.
-sangwoo.maeng@ybrain.com
+Copyright (c) 2018-present, Mateo McDonald.
+mateodonald701@gmail.com
